@@ -1,0 +1,53 @@
+/*
+THE ORDER:
+[X] - network -> which contracts to load
+[] - players -> total players
+[] - payoutpot -> total DAI in payout pot
+
+[] - isPlayer -> wether to show rest or just "Create Account" button
+
+[] - currentHolder -> wether to show "Steal" Button
+[] - currentHolderLA -> wether to show "Steal" Button
+[] - playerTurns -> wether to show "Steal" Button
+
+[] - allowance -> wether to show "Buy Turns" or "Approve Contract" buttons
+[] - playersBalance -> wether to show "Cashout" button
+
+*/
+
+
+38QJ4YXTKF9IYRE228KZ8H4892G7AMKQ9F
+
+
+https://api-ropsten.etherscan.io/api?module=account&action=tokennfttx&contractaddress=0x06012c8cf97bead5deae237070f9587f8e7a266d&address=0x6975be450864c02b4613023c2152ee0743572325&page=1&offset=100&sort=asc&apikey=38QJ4YXTKF9IYRE228KZ8H4892G7AMKQ9F
+
+
+
+
+$.getJSON('https://api.etherscan.io/api?module=contract&action=getabi&address=0xfb6916095ca1df60bb79ce92ce3ea74c37c5d359', function (data) {
+        var contractABI = "";
+        contractABI = JSON.parse(data.result);
+        if (contractABI != ''){
+            var MyContract = web3.eth.contract(contractABI);
+            var myContractInstance = MyContract.at("0xfb6916095ca1df60bb79ce92ce3ea74c37c5d359");
+            var result = myContractInstance.memberId("0xfe8ad7dd2f564a877cc23feea6c0a9cc2e783715");
+            console.log("result1 : " + result);            
+            var result = myContractInstance.members(1);
+            console.log("result2 : " + result);
+        } else {
+            console.log("Error" );
+        }            
+    });
+
+
+
+2500 Turns * 0.40 = 1000 - 2500 = 1500 - 1000 = 500
+2500 Turns * 0.30 = 750 - 2500 = 1750 - 1000 = 750
+2500 Turns * 0.20 = 500 - 2500 = 2000 - 1000 = 1000
+
+1500 = 2500 = + 1000
+1750 = 2500 = + 750
+
+
+
+1500
