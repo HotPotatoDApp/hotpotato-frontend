@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/hotpotato-frontend/static/css/main.9f28a748.chunk.css",
+    "main.js": "/hotpotato-frontend/static/js/main.7f6a0577.chunk.js",
+    "main.js.map": "/hotpotato-frontend/static/js/main.7f6a0577.chunk.js.map",
+    "runtime-main.js": "/hotpotato-frontend/static/js/runtime-main.5cfac655.js",
+    "runtime-main.js.map": "/hotpotato-frontend/static/js/runtime-main.5cfac655.js.map",
+    "static/css/2.081f420c.chunk.css": "/hotpotato-frontend/static/css/2.081f420c.chunk.css",
+    "static/js/2.cc915008.chunk.js": "/hotpotato-frontend/static/js/2.cc915008.chunk.js",
+    "static/js/2.cc915008.chunk.js.map": "/hotpotato-frontend/static/js/2.cc915008.chunk.js.map",
+    "static/js/3.58ed7124.chunk.js": "/hotpotato-frontend/static/js/3.58ed7124.chunk.js",
+    "static/js/3.58ed7124.chunk.js.map": "/hotpotato-frontend/static/js/3.58ed7124.chunk.js.map",
+    "index.html": "/hotpotato-frontend/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/hotpotato-frontend/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.9f28a748.chunk.css.map": "/hotpotato-frontend/static/css/main.9f28a748.chunk.css.map",
+    "static/js/2.cc915008.chunk.js.LICENSE.txt": "/hotpotato-frontend/static/js/2.cc915008.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/hotpotato-frontend/static/media/web.e86ced0d.svg",
+    "static/media/bsc.e03c891d.svg": "/hotpotato-frontend/static/media/bsc.e03c891d.svg",
+    "static/media/cold.7fe56aba.svg": "/hotpotato-frontend/static/media/cold.7fe56aba.svg",
+    "static/media/construction.c117a31f.svg": "/hotpotato-frontend/static/media/construction.c117a31f.svg",
+    "static/media/dai.2be46142.svg": "/hotpotato-frontend/static/media/dai.2be46142.svg",
+    "static/media/email.7fc1ba23.svg": "/hotpotato-frontend/static/media/email.7fc1ba23.svg",
+    "static/media/eth.b3ec96d9.svg": "/hotpotato-frontend/static/media/eth.b3ec96d9.svg",
+    "static/media/github.b39f76c3.svg": "/hotpotato-frontend/static/media/github.b39f76c3.svg",
+    "static/media/hot.92367627.svg": "/hotpotato-frontend/static/media/hot.92367627.svg",
+    "static/media/medium.e6b4c983.svg": "/hotpotato-frontend/static/media/medium.e6b4c983.svg",
+    "static/media/poly.97ff139c.svg": "/hotpotato-frontend/static/media/poly.97ff139c.svg",
+    "static/media/pot.74c1dece.svg": "/hotpotato-frontend/static/media/pot.74c1dece.svg",
+    "static/media/stop.29ac7c6a.svg": "/hotpotato-frontend/static/media/stop.29ac7c6a.svg",
+    "static/media/telegram.f55d4fed.svg": "/hotpotato-frontend/static/media/telegram.f55d4fed.svg",
+    "static/media/title.49d7e677.svg": "/hotpotato-frontend/static/media/title.49d7e677.svg",
+    "static/media/twitter.cb2025ec.svg": "/hotpotato-frontend/static/media/twitter.cb2025ec.svg",
+    "static/media/users.e658ed3e.svg": "/hotpotato-frontend/static/media/users.e658ed3e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cfac655.js",
+    "static/css/2.081f420c.chunk.css",
+    "static/js/2.cc915008.chunk.js",
+    "static/css/main.9f28a748.chunk.css",
+    "static/js/main.7f6a0577.chunk.js"
+  ]
+}
